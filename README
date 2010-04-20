@@ -1,9 +1,14 @@
 This UIPageControl Categorie (Extend) will allow you to have custom page-icons.
 If you have to place the UIPageControl on a white-based background this class might help you.
 
+
 Version
 =======
 0.1
+
+License
+=======
+BSD
 
 Changelog
 ==========
